@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository it creates a hidden folder where all of
+the committs are stored. You need it so that all the data is collected 
+for each committ that you instantiate.
+
+How is the staging area different from the working directory and the repository
+? What value do you think it offers?
+
+The working directory is everything that is in a current directory, the staging 
+area is everything that is in the pwd that is going to be committed. This allow
+s you to choose what you want to be committed to the .git directory.
