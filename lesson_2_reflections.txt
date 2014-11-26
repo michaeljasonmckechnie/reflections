@@ -10,3 +10,24 @@ How is the staging area different from the working directory and the repository
 The working directory is everything that is in a current directory, the staging 
 area is everything that is in the pwd that is going to be committed. This allow
 s you to choose what you want to be committed to the .git directory.
+
+How can you use the staging area to make sure you have one commit per logical c
+hange?
+
+You can check the differences before you commit them by running the 'git diff' 
+command before committing them.
+
+What are some situations when branches would be helpful in keeping your history
+ organized? How would branches help?
+
+ It would help to have another branch if you already have something they way 
+ you want it, but would like to experiment and possibly go a different directio
+ n with the project. Doing so will still keep the original project intact, whil
+ e you still maintain the ability to experiment and go another direction if you
+ so choose.
+
+ How do the diagrams help you visualize the branch structure?
+
+They help by showing you what parent belongs to what child. It helps to see it
+visually laid out so that you can trace each branch.
+
