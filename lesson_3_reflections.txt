@@ -15,3 +15,14 @@ Forks are GitHubs' version of their in cloud cloning, you may want to fork a pro
 because you don't have permission to commit to the official project. Clones are local
 copies of a project. While branches are just seperate paths in the tree structure on 
 any given project. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Go to stay up to date as much as possible when working collaboritively.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaboration without github would require that everyone knows exactly what they're 
+supposed to be working on, and not going beyond their own scope. Without git it 
+might be easier to keep everyone focused on their own tasks, but updating files
+could potentially be a downfall of this method as well.
