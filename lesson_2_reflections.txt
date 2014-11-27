@@ -31,3 +31,13 @@ What are some situations when branches would be helpful in keeping your history
 They help by showing you what parent belongs to what child. It helps to see it
 visually laid out so that you can trace each branch.
 
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+It was like two people were working independtly with their own versions, so it 
+is easier to represent that by showing a break off in the flow of the work.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Skipping this quesion for lack of understanding at this point.
+
