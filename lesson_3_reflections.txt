@@ -2,3 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 When working collaboritively with others it can be good to use github. Also it can serve as a back up for your own files
 should your computer ever crash.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Well, maybe you don't want them automatically pulled because you just are done, and you 
+want all commits to stay where they are, while others are continuing to add commits on 
+the project?
