@@ -8,3 +8,10 @@ Why might you want to always pull changes manually rather than having Git automa
 Well, maybe you don't want them automatically pulled because you just are done, and you 
 want all commits to stay where they are, while others are continuing to add commits on 
 the project?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are GitHubs' version of their in cloud cloning, you may want to fork a project
+because you don't have permission to commit to the official project. Clones are local
+copies of a project. While branches are just seperate paths in the tree structure on 
+any given project. 
