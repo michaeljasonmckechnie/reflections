@@ -26,3 +26,8 @@ Collaboration without github would require that everyone knows exactly what they
 supposed to be working on, and not going beyond their own scope. Without git it 
 might be easier to keep everyone focused on their own tasks, but updating files
 could potentially be a downfall of this method as well.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you have an idea that isn't fully baked yet and you want to keep the 
+master branch working the way it was intended.
